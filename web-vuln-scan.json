@@ -1,0 +1,22 @@
+{
+  "status": 1,
+  "data": {
+    "Number of vulnerabilities": 0,
+    "Details": {
+      "Web Frameworks": {
+        "Bulma": {
+          "version": "Unknown",
+          "confidence": 100,
+          "Possible vulnerabilities": "None searched because of unknown version"
+        }
+      },
+      "CDN": {
+        "CloudFlare": {
+          "version": "Unknown",
+          "confidence": 100,
+          "Possible vulnerabilities": "None searched because of unknown version"
+        }
+      }
+    }
+  }
+}

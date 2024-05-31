@@ -1,0 +1,23 @@
+{
+  "status": 1,
+  "data": {
+    "Details": {
+      "Listening services": {
+        "tcp": {
+          "443": {
+            "Details": "product: cloudflare",
+            "Possible vulnerabilities": "No other info available"
+          }
+        }
+      },
+      "Operating System": {
+        "Possible vulnerabilities": {},
+        "Details": ""
+      }
+    },
+    "Summary of vulnerabilities found": {
+      "os": 0,
+      "tcp": 0
+    }
+  }
+}
